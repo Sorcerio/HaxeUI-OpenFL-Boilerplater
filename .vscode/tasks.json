@@ -6,12 +6,14 @@
         {
             "label": "Run html5",
             "type": "shell",
-            "command": "openfl.exe test html5"
+            "command": "openfl.exe test html5",
+            "problemMatcher": []
         },
         {
             "label": "Run C++",
             "type": "shell",
-            "command": "openfl.exe test cpp"
+            "command": "openfl.exe test cpp",
+            "problemMatcher": []
         }
     ]
 }
